@@ -1,0 +1,17 @@
+table{
+    height: 200px;
+    width: 200px;
+}
+
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: yellow;
+}
+
+td{
+    background-color: turquoise;
+}

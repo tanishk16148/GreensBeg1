@@ -1,0 +1,53 @@
+h1{
+    font-size: 12vh;
+    color: rgb(51 116 255);
+    margin-top: 33vh;
+    margin-left: 25vh;
+    font-weight: bolder;
+}
+
+.input text{
+    width: 100%;
+    padding: 12px;
+    margin: 8px ;
+    display: grid;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button{
+    margin-top: 10px;
+    margin-left: -2vh;
+    background-color: rgb(51 116 255);
+    width: 110%;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+h4{
+    font-size: 27px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin-top: -8vh;
+    margin-left: 25vh;
+
+}
+
+
+.main{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    margin-left: 130vh;
+    margin-top: -30vh;
+    padding: 40px;
+    border: 4px solid rgb(112, 112, 112);
+    text-align: left;
+    border-radius: 10px;
+}   
+
+body{
+    background-color: #f3f3f6;
+}
+

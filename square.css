@@ -1,0 +1,33 @@
+.demo{
+    height: 200px;
+    width:200px;
+    background-color: aqua;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 200px;
+
+}
+
+.square1{
+    height: 200px;
+    width:200px;
+    background-color: rgb(255, 77, 0);
+    border: 2px solid rgb(77, 0, 244);
+    margin-left: 400px;
+    margin-top: -200px;
+
+}
+
+.square2{
+    height: 200px;
+    width:200px;
+    background-color: rgb(8, 33, 33);
+    border: 2px solid rgb(223, 4, 4);
+    margin-left: 800px;
+    margin-top: -200px;
+
+}
+
+.in{
+    padding: 10vh;
+}
